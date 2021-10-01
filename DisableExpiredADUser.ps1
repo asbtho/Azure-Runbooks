@@ -27,7 +27,7 @@
 <#
 
 .DESCRIPTION
- Script to disable users who are expired in AD and sync password expiry with Azure AD.
+ Script to disable users who are expired in AD so that they cannot log in to Azure AD.
 
 .PARAMETER
 
